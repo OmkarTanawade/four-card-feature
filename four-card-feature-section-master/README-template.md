@@ -9,7 +9,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-
+./images/Four-card-feature-section.jpg
 
 
 ### Links
@@ -28,7 +28,7 @@ Users should be able to:
 ## Author
 
 - Website - [Omkar Tanawade]()
-- Frontend Mentor - [@yourusername]()
+- Frontend Mentor - [@OmkarTanawade](https://www.frontendmentor.io/profile/OmkarTanawade)
 
 
 
