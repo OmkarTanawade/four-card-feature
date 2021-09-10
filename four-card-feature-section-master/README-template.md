@@ -15,7 +15,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:https://github.com/OmkarTanawade/four-card-feature/tree/main/four-card-feature-section-master
-- Live Site URL: 
+- Live Site URL: https://four-card-feature-sage-five.vercel.app/
 
 ## My process
 
@@ -27,7 +27,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Omkar Tanawade]()
+
 - Frontend Mentor - [@OmkarTanawade](https://www.frontendmentor.io/profile/OmkarTanawade)
 
 
