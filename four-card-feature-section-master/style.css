@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
 :root{
 	--Very-Dark-Blue: hsl(234, 12%, 34%);
 	--Grayish-Blue: hsl(229, 6%, 66%);
@@ -15,16 +15,25 @@
 }
 body{
 	background:var(--Very-Light-Gray);
-	font-family: sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 15px;
 }
 header{
-	max-width: 510px;
+	max-width: 520px;
     text-align: center;
     margin: 60px auto;
 }
 header h2{
 	color: var(--Very-Dark-Blue);
+}
+#header-top{
+	font-weight: 300;
+	font-size: 2rem;
+}
+#header-mid{
+	margin-top: 0px;
+	font-weight: 600;
+	font-size: 2rem;
 }
 header p{
 	color: var(--Grayish-Blue);
@@ -96,6 +105,12 @@ header p{
 	}
 }    
 @media(max-width: 375px){
+	#header-top{
+		font-size: 1rem;
+	}
+	#header-mid{
+		font-size: 1.5rem;
+	}
 	.box-push{
 		transform: translateY(0);
 	}
