@@ -9,7 +9,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-./images/Four-card-feature-section.jpg
+(./images/Four-card-feature-section.jpg)
 
 
 ### Links
